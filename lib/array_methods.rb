@@ -13,6 +13,9 @@ def find_element_index(array, value_to_find)
   (scale,4)
   (scale_2,5)
   (scale_2,6)
+  (hill,500)
+  (valley,500)
+  (zig_zag,400)
 end
 
 def find_max_value(array)
